@@ -86,7 +86,7 @@ DATABASES = {
         'NAME': 'bsdb',
         'USER': 'postgres',
         'PASSWORD': '1',
-        'HOST': 'localhost'
+        'HOST': '5432'
     }
 }
 
